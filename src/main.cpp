@@ -13,7 +13,7 @@ int main() {
 	/*...*/
 
 	#ifdef USE_TRIGONOMETRY_DEGREE
-		double resultSin = degreemath::Sin(90.0);
+		double resultSin = degreemath::Sin(45.0);
 		double resultCos = degreemath::Cos(0.0);
 		double resultTan = degreemath::Tan(45.0);
 		double resultCtan = degreemath::Ctan(45.0);
